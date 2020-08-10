@@ -25,6 +25,8 @@ Possible use of hardware and software:
 
 ### RISC-V
 
+### FPGA
+
 ## project structure
 ```
 |--- project root
@@ -37,4 +39,5 @@ Possible use of hardware and software:
     |--- pic
     |--- dsp430
     |--- riscv
+    |--- fpga
 ```
