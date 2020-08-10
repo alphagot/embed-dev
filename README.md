@@ -39,4 +39,5 @@ Possible use of hardware and software:
     |--- pic
     |--- dsp430
     |--- riscv
+    |--- fpga
 ```
