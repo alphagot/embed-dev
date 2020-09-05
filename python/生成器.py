@@ -8,6 +8,12 @@ def foo():
     return None
 
 
+L = (X * X for X in range(100))
+print(next(L))
+print(next(L))
+print(next(L))
+print(next(L))
+
 g = foo()
 
 print(next(g))
